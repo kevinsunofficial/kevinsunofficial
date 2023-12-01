@@ -8,4 +8,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kevinsunofficial/kevinsunofficial/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsunofficial&hide=JupyterNotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsunofficial&hide=jupyter)
